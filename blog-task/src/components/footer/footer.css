@@ -1,0 +1,12 @@
+#myFooter {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #22223B;
+    box-shadow: 0px -2px 10px #4A4E69;
+    padding: 1em 0;
+}
+
+#myFooter p {
+    color: white;
+}
